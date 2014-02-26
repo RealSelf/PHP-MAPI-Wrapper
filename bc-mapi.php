@@ -1236,7 +1236,7 @@ class BCMAPI
 
 			if($cache !== FALSE)
 			{
-				$response_object = json_decode($cache);
+				$response_object = $cache;
 
 				if(isset($response_object->items))
 				{

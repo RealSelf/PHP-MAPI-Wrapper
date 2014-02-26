@@ -107,6 +107,8 @@ class BCMAPICache
 			if(self::$memcached->getResultCode() == Memcached::RES_SUCCESS)
 			{
 				return $data;
+			} else {
+				return FALSE;
 			}
 		} else {
 			return FALSE;

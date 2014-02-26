@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Brightcove Media API for PHP",
     "keywords": ["Brightcove","video"],
-    "homepage": "https://github.com/PlanetTelexInc/PHP-MAPI-Wrapper",
+    "homepage": "https://github.com/RealSelf/PHP-MAPI-Wrapper",
     "license": "Brightcove",
     "authors": [
         {
